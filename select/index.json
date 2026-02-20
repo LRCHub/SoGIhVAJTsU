@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春の坂道",
+  "base_artist": "岡田奈々",
+  "createdAt": "2026-02-20T00:09:40.029957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春の坂道",
+      "artist": "岡田 奈々",
+      "has_synced": false,
+      "path": "select/pl_01_青春の坂道_岡田_奈々.txt"
+    }
+  ]
+}
